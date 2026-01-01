@@ -22,25 +22,25 @@ I enjoy turning ideas into real-world products using clean UI and efficient code
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" />
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- React  
+- Next.js  
 
 ### 🔧 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" /> 
+- Node.js  
+- Express.js  
 
-### 🗄️ Database & Authentication
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" /> 
+### 🗄️ Database & Auth
+- MongoDB  
+- Firebase Authentication  
 
 ### 🧰 Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" /> 
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
 
 ---
 
@@ -53,8 +53,8 @@ I enjoy turning ideas into real-world products using clean UI and efficient code
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehnaj&show_icons=true&theme=graywhite)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehnaj&layout=compact&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmehnaj&show_icons=true&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmehnaj&layout=compact&theme=graywhite)
 
 ---
 
