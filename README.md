@@ -54,7 +54,12 @@ I enjoy turning ideas into real-world products using clean UI and efficient code
 
 ### Github Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmehnaj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="General Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
