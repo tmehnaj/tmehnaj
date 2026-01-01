@@ -52,9 +52,10 @@ I enjoy turning ideas into real-world products using clean UI and efficient code
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmehnaj&show_icons=true&theme=graywhite)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmehnaj&layout=compact&theme=graywhite)
+### Repositories
+![Top Language](https://img.shields.io/github/languages/top/tmehnaj?color=important)
+![Public Repos](https://img.shields.io/github/release/tmehnaj/all?label=Public%20Repos&color=green)
+![Repo Size](https://img.shields.io/github/repo-size/tmehnaj?label=Repo%20Size&color=blue)
 
 ---
 
