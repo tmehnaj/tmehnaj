@@ -49,7 +49,7 @@ I enjoy turning ideas into real-world products using clean UI and efficient code
 
 ## 📫 Connect With Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanjila-mehnaj/)](https://www.linkedin.com/in/tanjila-mehnaj/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanjila-mehnaj)](https://www.linkedin.com/in/tanjila-mehnaj) 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tan.mehnaj@gmail.com)](mailto:tan.mehnaj@gmail.com)
 
 ---
