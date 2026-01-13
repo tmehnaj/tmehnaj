@@ -9,7 +9,7 @@ I enjoy turning ideas into real-world products using clean UI and efficient code
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and Mongoose**  
+- 🌱 I’m currently learning **Next.js**  
 - 🧩 Strong interest in **React, Next.js, and interactive UI development**  
 - 🔐 Experience with **Firebase Authentication**  
 - 🛠️ Comfortable building REST APIs using **Node.js & Express.js**  
